@@ -52,6 +52,10 @@ Currently the projects have few to no tests written, this will be updated in the
 
 * A Todo list app, built from Idea Box. Originally intended to show students what it's like to pivot an existing project, refactor and add additional functionality. This project was good practice for working with components and managing different views based on filtering and computed properties.
 
+  [Original Project Spec](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+  
+  [Github Repo](https://github.com/Jeff-Duke/2do-vue-pivot)
+
 ### Mod-2 projects:
 
 _Coming Soon_
