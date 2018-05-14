@@ -28,25 +28,25 @@ Currently the projects have few to no tests written, this will be updated in the
 
 * An app for bookmarking links originally intended to give students more practice with jQuery. Here we are using the project to get more exposure to working with the DOM in Vue, iterating over arrays of objects and working with computed properties.
 
-[Original Project Spec](http://frontend.turing.io/projects/linked-list.html)
+  [Original Project Spec](http://frontend.turing.io/projects/linked-list.html)
 
-[Github Repo](https://github.com/Jeff-Duke/linked-vue)
+  [Github Repo](https://github.com/Jeff-Duke/linked-vue)
 
 #### Foto Viewer
 
 * An app, similar to linked list, not currently being used by the stuents at Turing School. I used this project simply to practice and solidify concepts already learned in previous projects.
 
-[Original Project Spec](http://frontend.turing.io/projects/foto-finder.html)
+  [Original Project Spec](http://frontend.turing.io/projects/foto-finder.html)
 
-[Github Repo](https://github.com/Jeff-Duke/foto-vuer)
+  [Github Repo](https://github.com/Jeff-Duke/foto-vuer)
 
 #### Idea Box
 
 * A place to store some ideas. Originally meant to teach students about working with data structures and persisting/loading data from LocalStorage. This project is a good intro to breaking a Vue application into small components.
 
-[Original Project Spec](http://frontend.turing.io/projects/ideabox.html)
+  [Original Project Spec](http://frontend.turing.io/projects/ideabox.html)
 
-[Github Repo](https://github.com/Jeff-Duke/vuedea-box)
+  [Github Repo](https://github.com/Jeff-Duke/vuedea-box)
 
 #### 2do Box Pivot
 
